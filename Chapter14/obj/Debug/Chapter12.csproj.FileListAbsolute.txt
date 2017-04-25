@@ -1,0 +1,5 @@
+C:\z\sourcecode\C# Cookbook\Chapter12\bin\Debug\Chapter12.dll
+C:\z\sourcecode\C# Cookbook\Chapter12\bin\Debug\Chapter12.pdb
+C:\z\sourcecode\C# Cookbook\Chapter12\obj\Debug\Chapter12.dll
+C:\z\sourcecode\C# Cookbook\Chapter12\obj\Debug\Chapter12.pdb
+C:\z\sourcecode\C# Cookbook\Chapter12\obj\Debug\Chapter12.csprojResolveAssemblyReference.cache
