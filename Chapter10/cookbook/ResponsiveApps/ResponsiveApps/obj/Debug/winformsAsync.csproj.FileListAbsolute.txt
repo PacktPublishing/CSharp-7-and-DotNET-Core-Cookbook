@@ -1,0 +1,9 @@
+C:\sc\cookbook\ResponsiveApps\ResponsiveApps\bin\Debug\ResponsiveApps.exe.config
+C:\sc\cookbook\ResponsiveApps\ResponsiveApps\bin\Debug\ResponsiveApps.exe
+C:\sc\cookbook\ResponsiveApps\ResponsiveApps\bin\Debug\ResponsiveApps.pdb
+C:\sc\cookbook\ResponsiveApps\ResponsiveApps\obj\Debug\winformsAsync.csprojResolveAssemblyReference.cache
+C:\sc\cookbook\ResponsiveApps\ResponsiveApps\obj\Debug\ResponsiveApps.Form1.resources
+C:\sc\cookbook\ResponsiveApps\ResponsiveApps\obj\Debug\ResponsiveApps.Properties.Resources.resources
+C:\sc\cookbook\ResponsiveApps\ResponsiveApps\obj\Debug\winformsAsync.csproj.GenerateResource.Cache
+C:\sc\cookbook\ResponsiveApps\ResponsiveApps\obj\Debug\ResponsiveApps.exe
+C:\sc\cookbook\ResponsiveApps\ResponsiveApps\obj\Debug\ResponsiveApps.pdb

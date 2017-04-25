@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.25914.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PurchaseOrderConsole", "PurchaseOrderConsole\PurchaseOrderConsole.csproj", "{C07A0ED3-E781-438D-ACBE-73F7BAE735DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C07A0ED3-E781-438D-ACBE-73F7BAE735DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C07A0ED3-E781-438D-ACBE-73F7BAE735DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C07A0ED3-E781-438D-ACBE-73F7BAE735DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C07A0ED3-E781-438D-ACBE-73F7BAE735DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

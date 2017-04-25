@@ -1,0 +1,6 @@
+c:\users\dirk\documents\visual studio 2017\Projects\AspNetCore\src\AspNetCore\bin\Debug\netcoreapp1.0\AspNetCore.dll
+c:\users\dirk\documents\visual studio 2017\Projects\AspNetCore\src\AspNetCore\bin\Debug\netcoreapp1.0\AspNetCore.pdb
+c:\users\dirk\documents\visual studio 2017\Projects\AspNetCore\src\AspNetCore\obj\Debug\netcoreapp1.0\AspNetCore.AssemblyInfo.cs
+c:\users\dirk\documents\visual studio 2017\Projects\AspNetCore\src\AspNetCore\obj\Debug\netcoreapp1.0\AspNetCore.dll
+c:\users\dirk\documents\visual studio 2017\Projects\AspNetCore\src\AspNetCore\obj\Debug\netcoreapp1.0\AspNetCore.pdb
+c:\users\dirk\documents\visual studio 2017\Projects\AspNetCore\src\AspNetCore\obj\Debug\netcoreapp1.0\AspNetCore.csprojResolveAssemblyReference.cache

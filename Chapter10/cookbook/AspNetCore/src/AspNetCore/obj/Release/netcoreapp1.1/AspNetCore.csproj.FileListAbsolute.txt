@@ -1,0 +1,15 @@
+c:\users\dirk\documents\visual studio 2017\Projects\AspNetCore\src\AspNetCore\bin\Release\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\dirk\documents\visual studio 2017\Projects\AspNetCore\src\AspNetCore\bin\Release\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\dirk\documents\visual studio 2017\Projects\AspNetCore\src\AspNetCore\bin\Release\netcoreapp1.1\AspNetCore.dll
+c:\users\dirk\documents\visual studio 2017\Projects\AspNetCore\src\AspNetCore\bin\Release\netcoreapp1.1\AspNetCore.pdb
+c:\users\dirk\documents\visual studio 2017\Projects\AspNetCore\src\AspNetCore\obj\Release\netcoreapp1.1\AspNetCore.AssemblyInfo.cs
+c:\users\dirk\documents\visual studio 2017\Projects\AspNetCore\src\AspNetCore\obj\Release\netcoreapp1.1\AspNetCore.dll
+c:\users\dirk\documents\visual studio 2017\Projects\AspNetCore\src\AspNetCore\obj\Release\netcoreapp1.1\AspNetCore.pdb
+C:\sc\cookbook\AspNetCore\src\AspNetCore\bin\release\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+C:\sc\cookbook\AspNetCore\src\AspNetCore\bin\release\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+C:\sc\cookbook\AspNetCore\src\AspNetCore\bin\release\netcoreapp1.1\AspNetCore.dll
+C:\sc\cookbook\AspNetCore\src\AspNetCore\bin\release\netcoreapp1.1\AspNetCore.pdb
+C:\sc\cookbook\AspNetCore\src\AspNetCore\obj\release\netcoreapp1.1\AspNetCore.AssemblyInfo.cs
+C:\sc\cookbook\AspNetCore\src\AspNetCore\obj\release\netcoreapp1.1\AspNetCore.dll
+C:\sc\cookbook\AspNetCore\src\AspNetCore\obj\release\netcoreapp1.1\AspNetCore.pdb
+C:\sc\cookbook\AspNetCore\src\AspNetCore\obj\Release\netcoreapp1.1\AspNetCore.csprojResolveAssemblyReference.cache

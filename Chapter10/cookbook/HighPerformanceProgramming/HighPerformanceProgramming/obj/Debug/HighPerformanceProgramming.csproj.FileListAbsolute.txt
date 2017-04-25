@@ -1,0 +1,6 @@
+C:\sc\cookbook\HighPerformanceProgramming\HighPerformanceProgramming\bin\Debug\HighPerformanceProgramming.exe.config
+C:\sc\cookbook\HighPerformanceProgramming\HighPerformanceProgramming\bin\Debug\HighPerformanceProgramming.exe
+C:\sc\cookbook\HighPerformanceProgramming\HighPerformanceProgramming\bin\Debug\HighPerformanceProgramming.pdb
+C:\sc\cookbook\HighPerformanceProgramming\HighPerformanceProgramming\obj\Debug\HighPerformanceProgramming.csprojResolveAssemblyReference.cache
+C:\sc\cookbook\HighPerformanceProgramming\HighPerformanceProgramming\obj\Debug\HighPerformanceProgramming.exe
+C:\sc\cookbook\HighPerformanceProgramming\HighPerformanceProgramming\obj\Debug\HighPerformanceProgramming.pdb
