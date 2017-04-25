@@ -1,0 +1,9 @@
+C:\sc\cookbook\working_with_files\FilesExample\AsynchronousFileIO\bin\Debug\AsynchronousFileIO.exe.config
+C:\sc\cookbook\working_with_files\FilesExample\AsynchronousFileIO\bin\Debug\AsynchronousFileIO.exe
+C:\sc\cookbook\working_with_files\FilesExample\AsynchronousFileIO\bin\Debug\AsynchronousFileIO.pdb
+C:\sc\cookbook\working_with_files\FilesExample\AsynchronousFileIO\obj\Debug\AsynchronousFileIO.csprojResolveAssemblyReference.cache
+C:\sc\cookbook\working_with_files\FilesExample\AsynchronousFileIO\obj\Debug\AsynchronousFileIO.Form1.resources
+C:\sc\cookbook\working_with_files\FilesExample\AsynchronousFileIO\obj\Debug\AsynchronousFileIO.Properties.Resources.resources
+C:\sc\cookbook\working_with_files\FilesExample\AsynchronousFileIO\obj\Debug\AsynchronousFileIO.csproj.GenerateResource.Cache
+C:\sc\cookbook\working_with_files\FilesExample\AsynchronousFileIO\obj\Debug\AsynchronousFileIO.exe
+C:\sc\cookbook\working_with_files\FilesExample\AsynchronousFileIO\obj\Debug\AsynchronousFileIO.pdb
