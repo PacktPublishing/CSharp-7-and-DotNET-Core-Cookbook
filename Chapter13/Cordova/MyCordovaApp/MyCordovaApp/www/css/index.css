@@ -1,0 +1,8 @@
+form {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 5px;
+}
+
+#get-date-btn {
+    font-size: 22px;
+}
