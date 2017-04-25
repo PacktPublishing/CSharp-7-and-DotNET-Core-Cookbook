@@ -1,0 +1,12 @@
+C:\sc\cookbook\winform\bin\Debug\winform.exe.config
+C:\sc\cookbook\winform\bin\Debug\winform.exe
+C:\sc\cookbook\winform\bin\Debug\winform.pdb
+C:\sc\cookbook\winform\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\sc\cookbook\winform\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\sc\cookbook\winform\obj\Debug\winform.csprojResolveAssemblyReference.cache
+C:\sc\cookbook\winform\obj\Debug\winform.Form1.resources
+C:\sc\cookbook\winform\obj\Debug\winform.Properties.Resources.resources
+C:\sc\cookbook\winform\obj\Debug\winform.csproj.GenerateResource.Cache
+C:\sc\cookbook\winform\obj\Debug\winform.exe
+C:\sc\cookbook\winform\obj\Debug\winform.pdb
+C:\sc\cookbook\winform\bin\Debug\System.ValueTuple.dll

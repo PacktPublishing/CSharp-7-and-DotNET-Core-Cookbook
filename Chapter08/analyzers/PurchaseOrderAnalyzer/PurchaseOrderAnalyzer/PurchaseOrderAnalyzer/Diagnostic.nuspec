@@ -1,0 +1,25 @@
+﻿<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>PurchaseOrderAnalyzer</id>
+    <version>1.1.1.1</version>
+    <title>Purchase Order Analyzer</title>
+    <authors>Dirk Strauss</authors>
+    <owners>Acme Corporation</owners>
+    <licenseUrl>http://www.acmecorporation.com/poanalyzer/license</licenseUrl>
+    <projectUrl>http://www.acmecorporation.com/poanalyzer</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Validate te creation of Purchase Order Objects withing Acme Corporation's development projects</description>
+    <releaseNotes>Initial release of the Purchase Order Analyzer.</releaseNotes>
+    <copyright>Copyright</copyright>
+    <tags>PurchaseOrderAnalyzer, analyzers</tags>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System" targetFramework="" />
+    </frameworkAssemblies>
+  </metadata>
+  <!-- The convention for analyzers is to put language agnostic dlls in analyzers\portable50 and language specific analyzers in either analyzers\portable50\cs or analyzers\portable50\vb -->
+  <files>
+    <file src="*.dll" target="analyzers\dotnet\cs" exclude="**\Microsoft.CodeAnalysis.*;**\System.Collections.Immutable.*;**\System.Reflection.Metadata.*;**\System.Composition.*" />
+    <file src="tools\*.ps1" target="tools\" />
+  </files>
+</package>

@@ -1,0 +1,6 @@
+C:\sc\cookbook\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe.config
+C:\sc\cookbook\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.exe
+C:\sc\cookbook\RegularExpressions\RegularExpressions\bin\Debug\RegularExpressions.pdb
+C:\sc\cookbook\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.csprojResolveAssemblyReference.cache
+C:\sc\cookbook\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.exe
+C:\sc\cookbook\RegularExpressions\RegularExpressions\obj\Debug\RegularExpressions.pdb
