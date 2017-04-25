@@ -1,0 +1,8 @@
+C:\sc\cookbook\NetCoreConsole\NetCoreConsole\bin\Release\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+C:\sc\cookbook\NetCoreConsole\NetCoreConsole\bin\Release\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+C:\sc\cookbook\NetCoreConsole\NetCoreConsole\bin\Release\netcoreapp1.1\NetCoreConsole.dll
+C:\sc\cookbook\NetCoreConsole\NetCoreConsole\bin\Release\netcoreapp1.1\NetCoreConsole.pdb
+C:\sc\cookbook\NetCoreConsole\NetCoreConsole\obj\Release\netcoreapp1.1\NetCoreConsole.AssemblyInfo.cs
+C:\sc\cookbook\NetCoreConsole\NetCoreConsole\obj\Release\netcoreapp1.1\NetCoreConsole.dll
+C:\sc\cookbook\NetCoreConsole\NetCoreConsole\obj\Release\netcoreapp1.1\NetCoreConsole.pdb
+C:\sc\cookbook\NetCoreConsole\NetCoreConsole\obj\Release\netcoreapp1.1\NetCoreConsole.csprojResolveAssemblyReference.cache

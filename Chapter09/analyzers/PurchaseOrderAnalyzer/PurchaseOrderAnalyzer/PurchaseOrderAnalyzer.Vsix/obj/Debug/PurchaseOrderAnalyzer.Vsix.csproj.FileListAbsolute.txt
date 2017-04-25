@@ -1,0 +1,11 @@
+C:\sc\analyzers\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer.Vsix\bin\Debug\Diagnostic.nuspec
+C:\sc\analyzers\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer.Vsix\bin\Debug\tools\install.ps1
+C:\sc\analyzers\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer.Vsix\bin\Debug\tools\uninstall.ps1
+C:\sc\analyzers\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer.Vsix\bin\Debug\PurchaseOrderAnalyzer.Vsix.vsix
+C:\sc\analyzers\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer.Vsix\bin\Debug\PurchaseOrderAnalyzer.dll
+C:\sc\analyzers\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer.Vsix\bin\Debug\PurchaseOrderAnalyzer.pdb
+C:\sc\analyzers\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer.Vsix\obj\Debug\PurchaseOrderAnalyzer.Vsix.csprojResolveAssemblyReference.cache
+C:\sc\analyzers\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer.Vsix\obj\Debug\PurchaseOrderAnalyzer.Vsix.dll
+C:\sc\analyzers\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer.Vsix\obj\Debug\PurchaseOrderAnalyzer.Vsix.pdb
+C:\sc\analyzers\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer.Vsix\obj\Debug\extension.vsixmanifest
+C:\sc\analyzers\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer.Vsix\bin\Debug\extension.vsixmanifest

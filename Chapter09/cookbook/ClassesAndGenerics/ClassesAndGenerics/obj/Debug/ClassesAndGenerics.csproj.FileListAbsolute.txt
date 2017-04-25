@@ -1,0 +1,6 @@
+C:\sc\cookbook\ClassesAndGenerics\ClassesAndGenerics\bin\Debug\ClassesAndGenerics.exe.config
+C:\sc\cookbook\ClassesAndGenerics\ClassesAndGenerics\bin\Debug\ClassesAndGenerics.exe
+C:\sc\cookbook\ClassesAndGenerics\ClassesAndGenerics\bin\Debug\ClassesAndGenerics.pdb
+C:\sc\cookbook\ClassesAndGenerics\ClassesAndGenerics\obj\Debug\ClassesAndGenerics.csprojResolveAssemblyReference.cache
+C:\sc\cookbook\ClassesAndGenerics\ClassesAndGenerics\obj\Debug\ClassesAndGenerics.exe
+C:\sc\cookbook\ClassesAndGenerics\ClassesAndGenerics\obj\Debug\ClassesAndGenerics.pdb

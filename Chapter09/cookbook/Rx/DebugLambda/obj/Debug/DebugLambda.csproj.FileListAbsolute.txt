@@ -1,0 +1,5 @@
+C:\sc\cookbook\Rx\DebugLambda\bin\Debug\DebugLambda.exe.config
+C:\sc\cookbook\Rx\DebugLambda\bin\Debug\DebugLambda.exe
+C:\sc\cookbook\Rx\DebugLambda\bin\Debug\DebugLambda.pdb
+C:\sc\cookbook\Rx\DebugLambda\obj\Debug\DebugLambda.exe
+C:\sc\cookbook\Rx\DebugLambda\obj\Debug\DebugLambda.pdb

@@ -1,0 +1,8 @@
+C:\sc\cookbook\AWS\AWS\bin\Debug\AWS.exe.config
+C:\sc\cookbook\AWS\AWS\bin\Debug\AWS.exe
+C:\sc\cookbook\AWS\AWS\bin\Debug\AWS.pdb
+C:\sc\cookbook\AWS\AWS\obj\Debug\AWS.csprojResolveAssemblyReference.cache
+C:\sc\cookbook\AWS\AWS\obj\Debug\AWS.exe
+C:\sc\cookbook\AWS\AWS\obj\Debug\AWS.pdb
+C:\sc\cookbook\AWS\AWS\bin\Debug\AWSSDK.dll
+C:\sc\cookbook\AWS\AWS\bin\Debug\AWSSDK.pdb
