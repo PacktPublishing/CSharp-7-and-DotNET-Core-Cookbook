@@ -1,5 +1,5 @@
 # C# 7 and .NET Core Cookbook
-This is the code repository for [C# 7 and .NET Core Cookbook - Second Edition](https://www.packtpub.com/application-development/c-7-and-net-core-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787286276), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [C# 7 and .NET Core Cookbook](https://www.packtpub.com/application-development/c-7-and-net-core-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787286276), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 C# has recently been open-sourced and C# 7 comes with a host of new features for building powerful, cross-platform applications.
 ## Instructions and Navigation
