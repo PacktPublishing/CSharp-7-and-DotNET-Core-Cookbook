@@ -1,0 +1,6 @@
+C:\sc\DebugLambda\DebugLambda\bin\Debug\DebugLambda.exe.config
+C:\sc\DebugLambda\DebugLambda\bin\Debug\DebugLambda.exe
+C:\sc\DebugLambda\DebugLambda\bin\Debug\DebugLambda.pdb
+C:\sc\DebugLambda\DebugLambda\obj\Debug\DebugLambda.csprojResolveAssemblyReference.cache
+C:\sc\DebugLambda\DebugLambda\obj\Debug\DebugLambda.exe
+C:\sc\DebugLambda\DebugLambda\obj\Debug\DebugLambda.pdb

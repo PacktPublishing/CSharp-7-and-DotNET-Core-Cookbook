@@ -1,0 +1,9 @@
+C:\sc\analyzers\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\bin\Debug\Diagnostic.nuspec
+C:\sc\analyzers\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\bin\Debug\tools\install.ps1
+C:\sc\analyzers\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\bin\Debug\tools\uninstall.ps1
+C:\sc\analyzers\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\bin\Debug\PurchaseOrderAnalyzer.dll
+C:\sc\analyzers\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\bin\Debug\PurchaseOrderAnalyzer.pdb
+C:\sc\analyzers\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\obj\Debug\PurchaseOrderAnalyzer.Resources.resources
+C:\sc\analyzers\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\obj\Debug\PurchaseOrderAnalyzer.csproj.GenerateResource.Cache
+C:\sc\analyzers\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\obj\Debug\PurchaseOrderAnalyzer.dll
+C:\sc\analyzers\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\PurchaseOrderAnalyzer\obj\Debug\PurchaseOrderAnalyzer.pdb

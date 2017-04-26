@@ -1,0 +1,16 @@
+C:\sc\cookbook\Rx\Rx\bin\Debug\Rx.exe.config
+C:\sc\cookbook\Rx\Rx\bin\Debug\Rx.exe
+C:\sc\cookbook\Rx\Rx\bin\Debug\Rx.pdb
+C:\sc\cookbook\Rx\Rx\bin\Debug\System.Reactive.Core.dll
+C:\sc\cookbook\Rx\Rx\bin\Debug\System.Reactive.Interfaces.dll
+C:\sc\cookbook\Rx\Rx\bin\Debug\System.Reactive.Linq.dll
+C:\sc\cookbook\Rx\Rx\bin\Debug\System.Reactive.PlatformServices.dll
+C:\sc\cookbook\Rx\Rx\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\sc\cookbook\Rx\Rx\bin\Debug\System.Reactive.Core.xml
+C:\sc\cookbook\Rx\Rx\bin\Debug\System.Reactive.Interfaces.xml
+C:\sc\cookbook\Rx\Rx\bin\Debug\System.Reactive.Linq.xml
+C:\sc\cookbook\Rx\Rx\bin\Debug\System.Reactive.PlatformServices.xml
+C:\sc\cookbook\Rx\Rx\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\sc\cookbook\Rx\Rx\obj\Debug\Rx.csprojResolveAssemblyReference.cache
+C:\sc\cookbook\Rx\Rx\obj\Debug\Rx.exe
+C:\sc\cookbook\Rx\Rx\obj\Debug\Rx.pdb

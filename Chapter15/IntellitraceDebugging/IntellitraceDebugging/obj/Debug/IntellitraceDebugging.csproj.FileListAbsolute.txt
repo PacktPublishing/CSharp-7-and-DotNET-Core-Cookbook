@@ -1,0 +1,6 @@
+C:\sc\IntellitraceDebugging\IntellitraceDebugging\bin\Debug\IntellitraceDebugging.exe.config
+C:\sc\IntellitraceDebugging\IntellitraceDebugging\bin\Debug\IntellitraceDebugging.exe
+C:\sc\IntellitraceDebugging\IntellitraceDebugging\bin\Debug\IntellitraceDebugging.pdb
+C:\sc\IntellitraceDebugging\IntellitraceDebugging\obj\Debug\IntellitraceDebugging.csprojResolveAssemblyReference.cache
+C:\sc\IntellitraceDebugging\IntellitraceDebugging\obj\Debug\IntellitraceDebugging.exe
+C:\sc\IntellitraceDebugging\IntellitraceDebugging\obj\Debug\IntellitraceDebugging.pdb

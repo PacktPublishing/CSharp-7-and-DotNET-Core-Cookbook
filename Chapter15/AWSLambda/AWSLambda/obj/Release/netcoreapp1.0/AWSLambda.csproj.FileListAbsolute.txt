@@ -1,0 +1,6 @@
+C:\sc\AWSLambda\AWSLambda\bin\Release\netcoreapp1.0\AWSLambda.deps.json
+C:\sc\AWSLambda\AWSLambda\bin\Release\netcoreapp1.0\AWSLambda.dll
+C:\sc\AWSLambda\AWSLambda\bin\Release\netcoreapp1.0\AWSLambda.pdb
+C:\sc\AWSLambda\AWSLambda\obj\Release\netcoreapp1.0\AWSLambda.AssemblyInfo.cs
+C:\sc\AWSLambda\AWSLambda\obj\Release\netcoreapp1.0\AWSLambda.dll
+C:\sc\AWSLambda\AWSLambda\obj\Release\netcoreapp1.0\AWSLambda.pdb

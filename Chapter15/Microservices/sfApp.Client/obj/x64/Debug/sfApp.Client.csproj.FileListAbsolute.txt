@@ -1,0 +1,17 @@
+C:\sc\Microservices\sfApp.Client\bin\x64\Debug\sfApp.Client.exe.config
+C:\sc\Microservices\sfApp.Client\bin\x64\Debug\sfApp.Client.exe
+C:\sc\Microservices\sfApp.Client\bin\x64\Debug\sfApp.Client.pdb
+C:\sc\Microservices\sfApp.Client\bin\x64\Debug\Microsoft.ServiceFabric.Actors.dll
+C:\sc\Microservices\sfApp.Client\bin\x64\Debug\Microsoft.ServiceFabric.Data.dll
+C:\sc\Microservices\sfApp.Client\bin\x64\Debug\Microsoft.ServiceFabric.Internal.dll
+C:\sc\Microservices\sfApp.Client\bin\x64\Debug\Microsoft.ServiceFabric.Internal.Strings.dll
+C:\sc\Microservices\sfApp.Client\bin\x64\Debug\Microsoft.ServiceFabric.Services.dll
+C:\sc\Microservices\sfApp.Client\bin\x64\Debug\UtilitiesActor.Interfaces.dll
+C:\sc\Microservices\sfApp.Client\bin\x64\Debug\ServiceFabricServiceModel.dll
+C:\sc\Microservices\sfApp.Client\bin\x64\Debug\UtilitiesActor.Interfaces.pdb
+C:\sc\Microservices\sfApp.Client\bin\x64\Debug\Microsoft.ServiceFabric.Actors.xml
+C:\sc\Microservices\sfApp.Client\bin\x64\Debug\Microsoft.ServiceFabric.Data.xml
+C:\sc\Microservices\sfApp.Client\bin\x64\Debug\Microsoft.ServiceFabric.Services.xml
+C:\sc\Microservices\sfApp.Client\obj\x64\Debug\sfApp.Client.csprojResolveAssemblyReference.cache
+C:\sc\Microservices\sfApp.Client\obj\x64\Debug\sfApp.Client.exe
+C:\sc\Microservices\sfApp.Client\obj\x64\Debug\sfApp.Client.pdb
