@@ -5,7 +5,7 @@ C# has recently been open-sourced and C# 7 comes with a host of new features for
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
-
+Chapter 12 doesn't have any code
 
 The code will look like the following:
 ```
