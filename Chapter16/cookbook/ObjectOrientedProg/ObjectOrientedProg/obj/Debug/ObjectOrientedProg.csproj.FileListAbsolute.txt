@@ -1,0 +1,6 @@
+C:\sc\cookbook\ObjectOrientedProg\ObjectOrientedProg\bin\Debug\ObjectOrientedProg.exe.config
+C:\sc\cookbook\ObjectOrientedProg\ObjectOrientedProg\bin\Debug\ObjectOrientedProg.exe
+C:\sc\cookbook\ObjectOrientedProg\ObjectOrientedProg\bin\Debug\ObjectOrientedProg.pdb
+C:\sc\cookbook\ObjectOrientedProg\ObjectOrientedProg\obj\Debug\ObjectOrientedProg.csprojResolveAssemblyReference.cache
+C:\sc\cookbook\ObjectOrientedProg\ObjectOrientedProg\obj\Debug\ObjectOrientedProg.exe
+C:\sc\cookbook\ObjectOrientedProg\ObjectOrientedProg\obj\Debug\ObjectOrientedProg.pdb

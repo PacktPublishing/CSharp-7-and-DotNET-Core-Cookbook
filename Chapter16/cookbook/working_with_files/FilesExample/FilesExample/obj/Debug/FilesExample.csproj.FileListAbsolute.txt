@@ -1,0 +1,9 @@
+C:\sc\cookbook\working_with_files\FilesExample\FilesExample\bin\Debug\FilesExample.exe.config
+C:\sc\cookbook\working_with_files\FilesExample\FilesExample\bin\Debug\FilesExample.exe
+C:\sc\cookbook\working_with_files\FilesExample\FilesExample\bin\Debug\FilesExample.pdb
+C:\sc\cookbook\working_with_files\FilesExample\FilesExample\bin\Debug\System.IO.Compression.dll
+C:\sc\cookbook\working_with_files\FilesExample\FilesExample\obj\Debug\FilesExample.exe
+C:\sc\cookbook\working_with_files\FilesExample\FilesExample\obj\Debug\FilesExample.pdb
+C:\sc\cookbook\working_with_files\FilesExample\FilesExample\obj\Debug\FilesExample.csprojResolveAssemblyReference.cache
+C:\sc\cookbook\working_with_files\FilesExample\FilesExample\bin\Debug\Newtonsoft.Json.dll
+C:\sc\cookbook\working_with_files\FilesExample\FilesExample\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,6 @@
+C:\sc\cookbook\NetCoreConsole\NetCoreConsole\bin\Release\netcoreapp1.0\NetCoreConsole.dll
+C:\sc\cookbook\NetCoreConsole\NetCoreConsole\bin\Release\netcoreapp1.0\NetCoreConsole.pdb
+C:\sc\cookbook\NetCoreConsole\NetCoreConsole\obj\Release\netcoreapp1.0\NetCoreConsole.csprojResolveAssemblyReference.cache
+C:\sc\cookbook\NetCoreConsole\NetCoreConsole\obj\Release\netcoreapp1.0\NetCoreConsole.AssemblyInfo.cs
+C:\sc\cookbook\NetCoreConsole\NetCoreConsole\obj\Release\netcoreapp1.0\NetCoreConsole.dll
+C:\sc\cookbook\NetCoreConsole\NetCoreConsole\obj\Release\netcoreapp1.0\NetCoreConsole.pdb

@@ -1,0 +1,7 @@
+C:\sc\cookbook\cookbook\bin\Debug\cookbook.exe.config
+C:\sc\cookbook\cookbook\bin\Debug\cookbook.exe
+C:\sc\cookbook\cookbook\bin\Debug\cookbook.pdb
+C:\sc\cookbook\cookbook\bin\Debug\System.ValueTuple.dll
+C:\sc\cookbook\cookbook\obj\Debug\cookbook.exe
+C:\sc\cookbook\cookbook\obj\Debug\cookbook.pdb
+C:\sc\cookbook\cookbook\obj\Debug\cookbook.csprojResolveAssemblyReference.cache
